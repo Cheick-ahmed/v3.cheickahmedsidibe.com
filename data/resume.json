@@ -1,0 +1,59 @@
+
+[
+    {
+      "company": "Accor",
+      "title": "Front-end developer",
+      "start": "Mars 2022",
+      "end": {
+        "label": "Maintenant",
+        "dateTime": "2023"
+      },
+      "logo": {
+        "src": "",
+        "icon" : "AccorLogo"
+      }
+    },
+    {
+      "company": "Nexity",
+      "title": "Front-end developer",
+      "start": "Sep 2021",
+      "end": "Mars 2022", 
+      "logo": {
+        "src": "https://media.nexity.fr/nfr2016/picto/nexity-logo.svg",
+        "icon" : ""
+      }
+    },
+    
+    {
+      "company": "The programmatic Company",
+      "title": "Lead dev front",
+      "start": "Mars",
+      "end": "Août 2021",
+      "logo": {
+        "src": "https://fs.hubspotusercontent00.net/hubfs/19677909/RESSOURCES%20WEB%20SITE/INTRO%20FR/logohome.png",
+        "icon" : ""
+      }
+    },
+    {
+      "company": "Gridky",
+      "title": "Front-end developer",
+      "start": "Janv",
+      "end": "Mars 2021", 
+      "logo": {
+        "src": "https://www.gridky.com/images/favicons/favicon-96x96.png",
+        "icon" : ""
+      }
+    }, 
+    {
+        "company": "Franprix",
+        "title": "Front-end developer",
+        "start": "2019",
+        "end": "2011",
+        "logo": {
+          "src": "https://www.useradgents.com/api/wp-content/uploads/2020/07/preview_story_seo_Franprix.png",
+          "icon" : ""
+        }
+      }
+
+  ]
+  

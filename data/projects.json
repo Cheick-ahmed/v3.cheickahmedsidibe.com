@@ -1,0 +1,32 @@
+ [
+    {
+        "name": "The Programmatic Company",
+        "description": "Un aperçu plus agréable de votre profil et des statistiques de vos repos sur GitHub. Inclut des visualisations de données de vos langages principaux, des repos étoilés et permet de trier vos repos par nombre d'étoiles, de forks et de taille.",
+        "link": { "href": "https://www.theprogrammaticcompany.com/", "label": "website" }
+    },
+    {
+        "name": "Gridky",
+        "description": "Construction d'un site web pour le premier comparateur intelligent de l'immobilier neuf",
+        "link": { "href": "https://www.gridky.com/", "label": "website" }
+    },
+    {
+        "name": "OctoProfile",
+        "description": "Un regard plus agréable sur votre profil GitHub et les statistiques de vos repos. Inclut des visualisations de données de vos langages principaux, des repos étoilés et permet de trier vos repos par nombre d'étoiles, de forks et de taille.",
+        "link": { "href": "https://github.com/Cheick-ahmed/OctoProfile", "label": "github" }
+    },
+    {
+        "name": "GameHer",
+        "description": "Refonte et redessin complets de GameHer : se rapprocher de la diversité des genres et des cultures dans l'industrie du jeu vidéo.",
+        "link": { "href": "https://cheickahmedsidibe.com/", "label": "website" }
+    },
+    {
+        "name": "France Prono",
+        "description": "Construction du site de prédictions sportives géré par des parieurs professionnels",
+        "link": { "href": "https://www.france-pronos.com/", "label": "website" }
+    },
+    {
+        "name": "Addicted To Web",
+        "description": "Construction du site web pour l'agence digitale Mobile First idéale pour vos projets.",
+        "link": { "href": "https://addictedtoweb.fr/", "label": "website" }
+    }
+]
