@@ -118,6 +118,13 @@ const Gridky = {
 }
 
 const items = [accor, Nexity, TPC, Gridky]
+
+useHead({
+    title: 'Expériences - Ahmed SIDIBE',
+    meta: [
+        { name: 'description', content: "De Code en Code : Mon Parcours de Développeur" }
+    ],
+})
 </script>
 
 <template>

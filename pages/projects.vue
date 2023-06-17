@@ -2,6 +2,13 @@
 import projects from '../data/projects.json'
 
 let intro = "Au fil des ans, j'ai travaillé sur de nombreux petits projets, mais ce sont ceux dont je suis le plus fier. Beaucoup d'entre eux sont open-source, donc si vous voyez quelque chose qui suscite votre intérêt, consultez le code et contribuez si vous avez des idées pour l'améliorer."
+
+useHead({
+    title: 'Projets - Ahmed SIDIBE',
+    meta: [
+        { name: 'description', content: "Projets sur lesquels j'ai travaillé, témoignant de ma quête d'innovation." }
+    ],
+})
 </script>
 
 <template>

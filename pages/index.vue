@@ -8,6 +8,13 @@ import articles from '../data/articles.json'
 
 articles.length = 3
 resume.length = 4
+
+useHead({
+  title: 'Ahmed - Développeur Front-End Expérimenté, Spécialiste en Vue/Nuxt',
+  meta: [
+    { name: 'description', content: "Je m'appelle Ahmed, un développeur Front-End passionné avec plus de 5 ans d'expérience. Spécialisé en Vue/Nuxt, TypeScript, Tailwind et d'autres technologies front-end, j'offre des solutions innovantes et performantes pour répondre aux défis techniques les plus complexes." }
+  ],
+})
 </script>
 
 <template>
@@ -32,23 +39,14 @@ resume.length = 4
     </div>
   </Container>
 
-<Container class="mt-24 md:mt-28">
-  <div class="mx-auto grid max-w-xl grid-cols-1 gap-y-20 lg:max-w-none lg:grid-cols-2">
-    <div class="flex flex-col gap-16">
-      <Article v-for="article in articles" :key="article.slug" :post="article" />
-    </div>
-    <div class="space-y-10 lg:pl-16 xl:pl-24">
-      <Resume :resume="resume" />
+  <Container class="mt-24 md:mt-28">
+    <div class="mx-auto grid max-w-xl grid-cols-1 gap-y-20 lg:max-w-none lg:grid-cols-2">
+      <div class="flex flex-col gap-16">
+        <Article v-for="article in articles" :key="article.slug" :post="article" />
+      </div>
+      <div class="space-y-10 lg:pl-16 xl:pl-24">
+        <Resume :resume="resume" />
       </div>
     </div>
   </Container>
-
-  <!-- <SimpleLayout title="Writing on software design, company building, and the aerospace industry."
-            intro="All of my long-form thoughts on programming, leadership, product design, and more, collected in chronological order.">
-            <div class="md:border-l md:border-zinc-100 md:pl-6 md:dark:border-zinc-700/40">
-              <div class="flex max-w-3xl flex-col space-y-16">
-                <Article v-for="post in articles" :key="post.slug" :post="post" />
-              </div>
-            </div>
-          </SimpleLayout> -->
 </template>
