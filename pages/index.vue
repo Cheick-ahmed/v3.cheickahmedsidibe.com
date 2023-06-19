@@ -6,7 +6,6 @@ import InstagramIcon from '~/components/InstagramIcon.vue';
 import resume from '../data/resume.json'
 import articles from '../data/articles.json'
 
-articles.length = 3
 resume.length = 4
 
 useHead({

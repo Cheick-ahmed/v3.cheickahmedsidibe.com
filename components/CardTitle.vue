@@ -5,7 +5,7 @@ const props = defineProps({
         default: 'h2'
     },
     href: {
-        type: String,
+        type: [String, Object],
         default: ''
     }
 })

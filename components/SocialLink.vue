@@ -4,7 +4,7 @@ const props = defineProps({
     msg: String,
     href: String
 })
-
+console.log(props.href)
 </script>
 
 <template>
@@ -18,7 +18,7 @@ const props = defineProps({
         </Nuxt-link>
     </li>
 
-    <Nuxt-link v-else class="group -m-1 p-1">
+    <Nuxt-link v-else :to="href" class="group -m-1 p-1">
         <component :is="icon"
             class="h-6 w-6 fill-zinc-500 transition group-hover:fill-zinc-600 dark:fill-zinc-400 dark:group-hover:fill-zinc-300" />
 

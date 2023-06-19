@@ -1,37 +1,16 @@
 [
   {
-    "slug": "tale-of-two-mice",
-    "title": "A Tale of Two Mice: A Journey Through the Internet",
+    "slug": "style-guides-component-libraries-design-systems",
+    "title": "Everything I Know About Style Guides, Design Systems, and Component Libraries",
     "date": "2023-06-01",
-    "description": "Once upon a time in the vast wilderness of the World Wide Web, two brave little mice named Click and Scroll ventured out on an epic journey. Guided by the shining light of the Cursor, they traversed the barren plains of Empty Tabs, braved the turbulent waters of Streaming Videos, and scaled the formidable walls of Infinite Scrolling Pages. This article chronicles their exciting adventures and uncovers the secret world that exists beneath our fingertips, hidden within our computer screens. Buckle up for an adventurous read!",
+    "description": "For the better part of the last year, I've been investing heavily in front-end development and design.",
     "cta": "Embark on the adventure"
   },
   {
-    "slug": "laughing-robot",
-    "title": "When Robots Laugh: A Comedic Affair",
+    "slug": "how-stripe-designs-beautiful-websites",
+    "title": "How Stripe Designs Beautiful Websites",
     "date": "2023-05-15",
-    "description": "Can machines understand humor? This question took our team on a hilarious roller coaster ride through machine learning algorithms and comedic literature. With every wrong punchline and misplaced joke, our AI-comedian-in-the-making taught us a lot about humor, life, and the astonishingly complex human brain. This delightful piece is not just the chronicle of our laughable journey, but also an exploration of the concept of humor through the silicon-tinted glasses of artificial intelligence. Ready to giggle and ponder?",
+    "description": "Have you ever visited a website and been completely in awe of the elegance and simplicity of its design? For me, that website is Stripe.",
     "cta": "Enjoy a laugh"
-  },
-  {
-    "slug": "mars-summer-vacation",
-    "title": "Mars: The Ultimate Summer Vacation Spot",
-    "date": "2023-06-07",
-    "description": "With temperatures soaring high, are you looking for a cool getaway? What about a summer vacation on Mars? As absurd as it may sound, this might not be a distant dream! This article takes you on a whimsical yet somewhat plausible journey through the red, sandy landscapes of Mars. From watching Martian sunsets to enjoying low-gravity sports, we cover all the hypothetical fun you could have on the Red Planet. So grab a cup of coffee (or space brew) and let's fantasize about a Martian vacation!",
-    "cta": "Pack your space bags"
-  },
-  {
-    "slug": "daily-life-of-a-smart-fridge",
-    "title": "A Day in the Life of a Smart Fridge",
-    "date": "2023-05-22",
-    "description": "Have you ever pondered the life of your smart fridge? If your answer is no, it's time you do. In this light-hearted narrative, we give you a hilarious insight into a day in the life of a smart fridge. From its early morning diagnostics scan to its late-night power-saving mode, the article paints a colorful picture of our fridge's observations, its (made-up) thoughts, and its silent contributions to our lives. Be ready for chills and chuckles as we personify this unsung hero of the kitchen.",
-    "cta": "Meet your fridge"
-  },
-  {
-    "slug": "adventures-in-virtual-reality",
-    "title": "Adventures in Virtual Reality: More Real Than Reality?",
-    "date": "2023-06-10",
-    "description": "Join us as we dive headfirst into the realm of Virtual Reality! In this feature, we explore the exhilarating adventures one can experience in the virtual world, where the impossible becomes possible. Battle dragons, walk on Mars, or compose a symphony - the virtual world offers endless opportunities for excitement. Through a series of funny anecdotes, gripping moments, and memorable encounters, this article aims to highlight the magic of VR that transcends the boundaries of reality. Ready for the virtual thrill?",
-    "cta": "Dive into VR"
   }
 ]

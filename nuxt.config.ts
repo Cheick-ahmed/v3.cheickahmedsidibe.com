@@ -1,15 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  app: {
-    head: {
-      script: [
-        {
-          src: './utils/modeScript.js',
-        },
-      ],
-    },
-  },
   css: ['~/assets/css/main.css'],
   postcss: {
     plugins: {
@@ -17,5 +8,5 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  // modules: ['@nuxtjs/mdx'],
+  modules: ['@nuxt/content'],
 })
