@@ -9,7 +9,7 @@ const props = defineProps({
 <template>
     <article class="md:grid md:grid-cols-4 md:items-baseline">
         <Card class="md:col-span-3">
-            <CardTitle :href="`/articles/${post.slug}`">
+            <CardTitle>
                 {{ post.title }}
             </CardTitle>
             <CardEyebrow as="time" :dateTime="post.date" class="md:hidden" decorate>

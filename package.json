@@ -14,7 +14,6 @@
     "unit": "node --max_old_space_size=2048 --expose-gc vitest --colors"
   },
   "devDependencies": {
-    "@nuxt/content": "^2.7.0",
     "@nuxt/devtools": "latest",
     "@tailwindcss/typography": "^0.5.9",
     "@types/node": "^18",
