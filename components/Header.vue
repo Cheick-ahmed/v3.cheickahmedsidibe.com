@@ -113,6 +113,7 @@ onBeforeUnmount(() => {
     window.removeEventListener('scroll', updateStyles, { passive: true })
     window.removeEventListener('resize', updateStyles)
 })
+
 const modeScript = `
   let darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)')
 
@@ -182,7 +183,7 @@ useHead({
                         <MobileNavigation class="pointer-events-auto md:hidden" />
                         <DesktopNavigation class="pointer-events-auto hidden md:block" />
                     </div>
-                    <div class="flex justify-end md:flex-1">
+                    <div class="flex justify-end md:flex-1 space-x-3">
                         <div class="pointer-events-auto">
                             <ModeToggle />
                         </div>

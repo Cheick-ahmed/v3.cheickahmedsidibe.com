@@ -4,7 +4,6 @@ const props = defineProps({
     msg: String,
     href: String
 })
-console.log(props.href)
 </script>
 
 <template>

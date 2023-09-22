@@ -1,4 +1,3 @@
-import { AccorLogo } from '../.nuxt/components';
 <script setup>
 const props = defineProps({
     resume: Array
@@ -48,7 +47,7 @@ const isAccorLogo = (logo) => {
                 </dl>
             </li>
         </ol>
-        <AppButton href="#" variant="secondary" class="group mt-6 w-full">
+        <AppButton href="#" variant="secondary" class="group mt-6 w-full inline-flex">
             CV
             <ArrowDownIcon
                 class="h-4 w-4 stroke-zinc-400 transition group-active:stroke-zinc-600 dark:group-hover:stroke-zinc-50 dark:group-active:stroke-zinc-50" />
