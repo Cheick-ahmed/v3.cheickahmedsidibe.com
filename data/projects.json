@@ -1,5 +1,10 @@
  [
     {
+        "name": "Rock Horizon",
+        "description": "Un aperçu plus agréable de votre profil et des statistiques de vos repos sur GitHub. Inclut des visualisations de données de vos langages principaux, des repos étoilés et permet de trier vos repos par nombre d'étoiles, de forks et de taille.",
+        "link": { "href": "https://www.rockhorizon.com/", "label": "website" }
+    },
+    {
         "name": "The Programmatic Company",
         "description": "Un aperçu plus agréable de votre profil et des statistiques de vos repos sur GitHub. Inclut des visualisations de données de vos langages principaux, des repos étoilés et permet de trier vos repos par nombre d'étoiles, de forks et de taille.",
         "link": { "href": "https://www.theprogrammaticcompany.com/", "label": "website" }

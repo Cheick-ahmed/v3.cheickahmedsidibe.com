@@ -1,11 +1,50 @@
 
 [
+  {
+    "company": "Sofinco - Credit Agricole",
+    "title": "Front-end developer",
+    "start": "Fév 2024",
+    "end": {
+      "label": "Sep",
+      "dateTime": "09/2024"
+    },
+    "logo":{
+      "src": "https://www.sofinco.fr/files/live/sites/sofinco/files/images/Accueil/Footer/logo-sofinco.svg",
+      "icon" : ""
+    }
+  },
+  {
+    "company": "Barrière",
+    "title": "Front-end developer",
+    "start": "Fév 2024",
+    "end": {
+      "label": "Mai 2024",
+      "dateTime": "05/2024"
+    },
+    "logo": {
+      "src": "https://www.groupebarriere.com/content/dam/corporate/pictos/logo-barriere.png",
+      "icon" : ""
+    }
+  },
+  {
+    "company": "AromaZone",
+    "title": "Front-end developer",
+    "start": "Nov 2023",
+    "end": {
+      "label": "Février 2024",
+      "dateTime": "02/2024"
+    },
+    "logo": {
+      "src": "https://www.aroma-zone.com/_nuxt/img/logo.f71997d.svg",
+      "icon" : ""
+    }
+  },
     {
       "company": "Accor",
       "title": "Front-end developer",
       "start": "Mars 2022",
       "end": {
-        "label": "Maintenant",
+        "label": "Août 2023",
         "dateTime": "2023"
       },
       "logo": {
